@@ -105,7 +105,7 @@ export default function Contact() {
             </h2>
             <div className="w-24 h-1 bg-gradient-to-r from-neon-teal to-neon-cyan mx-auto mb-4" />
             <p className="text-gray-400 max-w-2xl mx-auto">
-              Let's collaborate and bring innovative AI solutions to life
+              Let&apos;s collaborate and bring innovative AI solutions to life
             </p>
           </motion.div>
 

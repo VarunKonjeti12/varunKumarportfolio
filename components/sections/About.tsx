@@ -415,7 +415,6 @@ export default function About() {
                         x: 10,
                         borderColor: borderColor,
                       }}
-                      transition={{ type: 'spring', stiffness: 300 }}
                       style={{ 
                         border: '1px solid transparent',
                         borderColor: 'transparent',
